@@ -1,0 +1,10 @@
+F:\GreenFox\pallida-basic-exam-trial\ProjectDictionary\ProjectDictionary\bin\Debug\netcoreapp1.1\ProjectDictionary.deps.json
+F:\GreenFox\pallida-basic-exam-trial\ProjectDictionary\ProjectDictionary\bin\Debug\netcoreapp1.1\ProjectDictionary.runtimeconfig.json
+F:\GreenFox\pallida-basic-exam-trial\ProjectDictionary\ProjectDictionary\bin\Debug\netcoreapp1.1\ProjectDictionary.runtimeconfig.dev.json
+F:\GreenFox\pallida-basic-exam-trial\ProjectDictionary\ProjectDictionary\bin\Debug\netcoreapp1.1\ProjectDictionary.dll
+F:\GreenFox\pallida-basic-exam-trial\ProjectDictionary\ProjectDictionary\bin\Debug\netcoreapp1.1\ProjectDictionary.pdb
+F:\GreenFox\pallida-basic-exam-trial\ProjectDictionary\ProjectDictionary\obj\Debug\netcoreapp1.1\ProjectDictionary.csprojResolveAssemblyReference.cache
+F:\GreenFox\pallida-basic-exam-trial\ProjectDictionary\ProjectDictionary\obj\Debug\netcoreapp1.1\ProjectDictionary.csproj.CoreCompileInputs.cache
+F:\GreenFox\pallida-basic-exam-trial\ProjectDictionary\ProjectDictionary\obj\Debug\netcoreapp1.1\ProjectDictionary.AssemblyInfo.cs
+F:\GreenFox\pallida-basic-exam-trial\ProjectDictionary\ProjectDictionary\obj\Debug\netcoreapp1.1\ProjectDictionary.dll
+F:\GreenFox\pallida-basic-exam-trial\ProjectDictionary\ProjectDictionary\obj\Debug\netcoreapp1.1\ProjectDictionary.pdb
