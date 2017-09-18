@@ -1,0 +1,10 @@
+F:\GreenFox\pallida-basic-exam-trial\ProjectUrlsFromHandles\ProjectUrlsFromHandles\bin\Debug\netcoreapp1.1\ProjectUrlsFromHandles.deps.json
+F:\GreenFox\pallida-basic-exam-trial\ProjectUrlsFromHandles\ProjectUrlsFromHandles\bin\Debug\netcoreapp1.1\ProjectUrlsFromHandles.runtimeconfig.json
+F:\GreenFox\pallida-basic-exam-trial\ProjectUrlsFromHandles\ProjectUrlsFromHandles\bin\Debug\netcoreapp1.1\ProjectUrlsFromHandles.runtimeconfig.dev.json
+F:\GreenFox\pallida-basic-exam-trial\ProjectUrlsFromHandles\ProjectUrlsFromHandles\bin\Debug\netcoreapp1.1\ProjectUrlsFromHandles.dll
+F:\GreenFox\pallida-basic-exam-trial\ProjectUrlsFromHandles\ProjectUrlsFromHandles\bin\Debug\netcoreapp1.1\ProjectUrlsFromHandles.pdb
+F:\GreenFox\pallida-basic-exam-trial\ProjectUrlsFromHandles\ProjectUrlsFromHandles\obj\Debug\netcoreapp1.1\ProjectUrlsFromHandles.csprojResolveAssemblyReference.cache
+F:\GreenFox\pallida-basic-exam-trial\ProjectUrlsFromHandles\ProjectUrlsFromHandles\obj\Debug\netcoreapp1.1\ProjectUrlsFromHandles.csproj.CoreCompileInputs.cache
+F:\GreenFox\pallida-basic-exam-trial\ProjectUrlsFromHandles\ProjectUrlsFromHandles\obj\Debug\netcoreapp1.1\ProjectUrlsFromHandles.AssemblyInfo.cs
+F:\GreenFox\pallida-basic-exam-trial\ProjectUrlsFromHandles\ProjectUrlsFromHandles\obj\Debug\netcoreapp1.1\ProjectUrlsFromHandles.dll
+F:\GreenFox\pallida-basic-exam-trial\ProjectUrlsFromHandles\ProjectUrlsFromHandles\obj\Debug\netcoreapp1.1\ProjectUrlsFromHandles.pdb
