@@ -7,3 +7,4 @@ F:\GreenFox\pallida-basic-exam-trial\ProjectNameFromEmail\ProjectNameFromEmail\o
 F:\GreenFox\pallida-basic-exam-trial\ProjectNameFromEmail\ProjectNameFromEmail\obj\Debug\netcoreapp1.1\ProjectNameFromEmail.AssemblyInfo.cs
 F:\GreenFox\pallida-basic-exam-trial\ProjectNameFromEmail\ProjectNameFromEmail\obj\Debug\netcoreapp1.1\ProjectNameFromEmail.dll
 F:\GreenFox\pallida-basic-exam-trial\ProjectNameFromEmail\ProjectNameFromEmail\obj\Debug\netcoreapp1.1\ProjectNameFromEmail.pdb
+F:\GreenFox\pallida-basic-exam-trial\ProjectNameFromEmail\ProjectNameFromEmail\obj\Debug\netcoreapp1.1\ProjectNameFromEmail.csprojResolveAssemblyReference.cache

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace ProjectNameFromEmail
 {
@@ -10,19 +11,18 @@ namespace ProjectNameFromEmail
             //and returns a string that represents the user name in the following format: lastName firstName
             //example: "elek.viz@exam.com" for this input the output should be: "Viz Elek"
             //accents does not matter 
-            string inputEmail = "elek.viz@exam.com";
 
-            Console.WriteLine(NameFromEmail(inputEmail));
+            Console.WriteLine(NameFromEmail("elek.viz@exam.com"));
             Console.ReadLine();
         }
         public static string NameFromEmail(string email)
         {
-            char[] emailAddress = email.ToCharArray();
-            string firstName = string.Empty;
-            string lastName = string.Empty;
+            string unifiedEmail = email.Replace('.', ' ').Replace('@', ' ');
+            string[] splittedEmail = unifiedEmail.Split(' ');
+            string firstName = splittedEmail[0];
+            string lastName = splittedEmail[1];
 
-            //Console.WriteLine(lastName + " " + firstName);
-            return email;
+            return lastName + " " + firstName;
         }
     }
 }
