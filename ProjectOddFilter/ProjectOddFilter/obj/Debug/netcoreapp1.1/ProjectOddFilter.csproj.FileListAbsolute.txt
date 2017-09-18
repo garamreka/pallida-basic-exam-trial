@@ -1,0 +1,10 @@
+F:\GreenFox\pallida-basic-exam-trial\ProjectOddFilter\ProjectOddFilter\bin\Debug\netcoreapp1.1\ProjectOddFilter.deps.json
+F:\GreenFox\pallida-basic-exam-trial\ProjectOddFilter\ProjectOddFilter\bin\Debug\netcoreapp1.1\ProjectOddFilter.runtimeconfig.json
+F:\GreenFox\pallida-basic-exam-trial\ProjectOddFilter\ProjectOddFilter\bin\Debug\netcoreapp1.1\ProjectOddFilter.runtimeconfig.dev.json
+F:\GreenFox\pallida-basic-exam-trial\ProjectOddFilter\ProjectOddFilter\bin\Debug\netcoreapp1.1\ProjectOddFilter.dll
+F:\GreenFox\pallida-basic-exam-trial\ProjectOddFilter\ProjectOddFilter\bin\Debug\netcoreapp1.1\ProjectOddFilter.pdb
+F:\GreenFox\pallida-basic-exam-trial\ProjectOddFilter\ProjectOddFilter\obj\Debug\netcoreapp1.1\ProjectOddFilter.csprojResolveAssemblyReference.cache
+F:\GreenFox\pallida-basic-exam-trial\ProjectOddFilter\ProjectOddFilter\obj\Debug\netcoreapp1.1\ProjectOddFilter.csproj.CoreCompileInputs.cache
+F:\GreenFox\pallida-basic-exam-trial\ProjectOddFilter\ProjectOddFilter\obj\Debug\netcoreapp1.1\ProjectOddFilter.AssemblyInfo.cs
+F:\GreenFox\pallida-basic-exam-trial\ProjectOddFilter\ProjectOddFilter\obj\Debug\netcoreapp1.1\ProjectOddFilter.dll
+F:\GreenFox\pallida-basic-exam-trial\ProjectOddFilter\ProjectOddFilter\obj\Debug\netcoreapp1.1\ProjectOddFilter.pdb
