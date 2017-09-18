@@ -11,10 +11,11 @@ namespace ProjectOddFilter
             // and returns a new list with every odd element from the orignal list
             List<int> originalList = new List<int> { 1, 2, 3, 4, 5 };
             List<int> oddElements = new List<int> {};
-            
-            // In case of the example input above, the given PrintList function should print 1 3 5 
-            PrintList(oddElements);
 
+            // In case of the example input above, the given PrintList function should print 1 3 5 
+
+            OddFilter(originalList, oddElements);
+            PrintList(oddElements);
             Console.ReadLine();
         }
 
