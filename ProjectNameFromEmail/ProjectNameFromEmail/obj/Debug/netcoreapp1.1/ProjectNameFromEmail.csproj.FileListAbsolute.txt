@@ -1,0 +1,9 @@
+F:\GreenFox\pallida-basic-exam-trial\ProjectNameFromEmail\ProjectNameFromEmail\bin\Debug\netcoreapp1.1\ProjectNameFromEmail.deps.json
+F:\GreenFox\pallida-basic-exam-trial\ProjectNameFromEmail\ProjectNameFromEmail\bin\Debug\netcoreapp1.1\ProjectNameFromEmail.runtimeconfig.json
+F:\GreenFox\pallida-basic-exam-trial\ProjectNameFromEmail\ProjectNameFromEmail\bin\Debug\netcoreapp1.1\ProjectNameFromEmail.runtimeconfig.dev.json
+F:\GreenFox\pallida-basic-exam-trial\ProjectNameFromEmail\ProjectNameFromEmail\bin\Debug\netcoreapp1.1\ProjectNameFromEmail.dll
+F:\GreenFox\pallida-basic-exam-trial\ProjectNameFromEmail\ProjectNameFromEmail\bin\Debug\netcoreapp1.1\ProjectNameFromEmail.pdb
+F:\GreenFox\pallida-basic-exam-trial\ProjectNameFromEmail\ProjectNameFromEmail\obj\Debug\netcoreapp1.1\ProjectNameFromEmail.csproj.CoreCompileInputs.cache
+F:\GreenFox\pallida-basic-exam-trial\ProjectNameFromEmail\ProjectNameFromEmail\obj\Debug\netcoreapp1.1\ProjectNameFromEmail.AssemblyInfo.cs
+F:\GreenFox\pallida-basic-exam-trial\ProjectNameFromEmail\ProjectNameFromEmail\obj\Debug\netcoreapp1.1\ProjectNameFromEmail.dll
+F:\GreenFox\pallida-basic-exam-trial\ProjectNameFromEmail\ProjectNameFromEmail\obj\Debug\netcoreapp1.1\ProjectNameFromEmail.pdb
