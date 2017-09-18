@@ -13,5 +13,23 @@ namespace NameFromEmail
             Console.WriteLine(NameFromEmail("elek.viz@exam.com"));
             Console.ReadLine();
         }
+        public static void NameFromEmail (string email)
+        {
+            char[] emailAddress = email.ToCharArray();
+            string firstName = string.Empty;
+            string lastName = string.Empty;
+
+            while (emailAddress[i] == ".")
+            {
+                firstName += email[i];
+            }
+
+            for (int i = 0; i < emailAdress.Length; i++)
+            {
+                if (emailAddress[i] == ".")
+            }
+
+            Console.WriteLine(lastName + " " + firstName);
+        }
     }
 }
